@@ -1,1 +1,1 @@
-# GithubCommitTrackerSlackNotify
+# githubcommitSlackTracker
